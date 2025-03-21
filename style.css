@@ -3,6 +3,9 @@
     margin: 0;
     padding: 0;
 }
+html{
+    scroll-behavior: smooth;
+}
 body {
     background-color: rgb(182, 240, 235);
     color: rgb(0, 0, 0);
@@ -209,6 +212,7 @@ button:hover{
     background-color: black;
     color: white;
     margin: 0;
+    padding: 20px 10px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -259,6 +263,9 @@ button:hover{
             "service2"
             "service3"
             "service4";
+    }
+    .footer{
+        padding: 0;
     }
     .footer ul{
         display: flex;
