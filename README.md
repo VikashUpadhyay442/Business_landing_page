@@ -6,3 +6,5 @@ Added basic CSS for styling.
 Used flexbox and grid to make it look better and changes some html and css too regarding header.
 # third edit
 made button more responsive, smoothed the scrolling,added appropriate gap, padding and margin.
+# forth edit
+added some transition and cleared excessive css.
